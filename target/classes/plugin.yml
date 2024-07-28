@@ -1,0 +1,6 @@
+name: sunRubik
+version: '1.0'
+main: by.loper.sunrubik.SunRubik
+api-version: '1.16'
+commands:
+  sunRubik:

@@ -1,0 +1,25 @@
+#######################################
+#            Author: Loper            #
+#          Discord: Im_Loper          #
+#            VK:@Loper_Ru             #
+#######################################
+  #Права плагина:                  #
+  # sunRubik.* - все права плагина #
+  ##################################
+cubeRubik:
+  baseHead: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWIxZWYyYTQ4MjlhMTFmZDkwM2I1ZTMxMDg4NjYyYThjNTZlNDcxYmI0ODY0M2MwZDlmOTUwMDZkMTgyMDIxMCJ9fX0="
+  displayName: "&6&lКубик Рубика"
+  lore:
+    - "&fЭто &6кубик рубика,&f что бы"
+    - "&fего &aоткрыть&f нажмите &eПКМ"
+  reward:
+    minReward: 100
+    maxReward: 350
+messages:
+  giveRubik: "&6&lКУБИК-РУБИКА &8| &fВам выдали &cкубик рубика&f в размере &e%amount% шт."
+  giveRubikSender: "&6&lКУБИК-РУБИКА &8| &fВы выдали игроку &e%player% &cкубик рубика&f в размере &a%amount% шт."
+  noOnlinePlayer: "&6&lКУБИК-РУБИКА &8| &fИгрок не в сети"
+  errorAmount: "&6&lКУБИК-РУБИКА &8| &fЧисло не корректно"
+  openRubik: "&6&lКУБИК-РУБИКА &8| &fВы открыли &cкубик рубика &fи получли &a%reward%&e солнышек"
+  reloadPlugin: "&6&lКУБИК-РУБИКА &8| &aПлагин перезагружен"
+  noPerms: "&6&lКУБИК-РУБИКА &8| &cУ вас недостаточно прав"
